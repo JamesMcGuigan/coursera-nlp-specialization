@@ -13,3 +13,7 @@ This repo contains all my work for this specialization. All the code base and im
 >
 > This Specialization will equip you with the state-of-the-art deep learning techniques needed to build cutting-edge NLP systems. By the end of this Specialization, you will be ready to design NLP applications that perform question-answering and sentiment analysis, create tools to translate languages and summarize text, and even build chatbots.
 
+## Bibliography
+
+### Course 1
+- Speech and Language Processing by Daniel Jurafsky, James H. Martin, Peter Norvig and Stuart  Russell.
